@@ -1,9 +1,9 @@
 # GitGoodPraesentation
 
 **Technologien:**
-Frontend: Angular -> Typescript
-Backend: SpringBoot -> Java/Kotlin
-Agile: Jira (https://simpletactics.atlassian.net/jira/software/projects/SG/boards/7)
+- Frontend: Angular -> Typescript
+- Backend: SpringBoot -> Java/Kotlin
+- Agile: Jira (https://simpletactics.atlassian.net/jira/software/projects/SG/boards/7)
 
 
 **Weitere mögliche Anforderungen:**
