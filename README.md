@@ -3,7 +3,8 @@
 **Technologien:**
 - Frontend: Angular -> Typescript
 - Backend: SpringBoot -> Java/Kotlin
-- Agile: Jira (https://simpletactics.atlassian.net/jira/software/projects/SG/boards/7)
+- Agile: Jira (https://gitgood.atlassian.net/jira/software/projects/SE/boards/1)
+- Datenbank: MariaDB
 
 
 **Weitere mögliche Anforderungen:**
