@@ -24,10 +24,10 @@
 - Wozu wird es benötigt? Ziele/Zielgruppen?
 - Wie groß ist der Umfang?
 
-- [ ] (4) Anforderungserfassung in natürlicher Sprache => z.B. Satzschablonen oder User Stories
-- [ ] (2) Ziele und Zielgrupen festhalten => z.B. Produkt Vision Board / Personas formulieren
-- [ ] (2) Anforderungen gliedern => Epics / User Story Map
-- [ ] (10) Pitch / Kickoff Präsentation/Disskussion
+- [x] (4) Anforderungserfassung in natürlicher Sprache => z.B. Satzschablonen oder User Stories
+- [x] (2) Ziele und Zielgrupen festhalten => z.B. Produkt Vision Board / Personas formulieren
+- [x] (2) Anforderungen gliedern => Epics / User Story Map
+- [x] (10) Pitch / Kickoff Präsentation/Disskussion
 - [ ] (2) grobes zeitliches Schätzen der Anforderungen => in Personentagen oder in UserStoryPoints / FunctionPoints
 
 Bonus:
@@ -49,7 +49,7 @@ Bonus:
 - [ ] (3) Sequenzdiagram
 
 Bonus:
-- [ ] (4)  Mockups/Wireframes der UI
+- [x] (4)  Mockups/Wireframes der UI
 
 ### 3. Implementierung:
 
@@ -77,14 +77,14 @@ Bonus:
 - Wie wird die Software ausgeliefert?
 - Wo wird die Software betrieben?
 
-- [ ] (6) Buildkonzept: 
+- [x] (6) Buildkonzept: 
     - Wie wird der Build getriggert?
     - Was wird gebaut( Setup / JAR/Exe / Container)?
     - Wo wird gebaut?
     - Wann/Wie oft werden welche Tests ausgeführt?
     - Wer wird wann informiert Entwickler/Kunde/DevOps
 - [ ] (2) Script für Semantic Versioning erstellen
-- [ ] (2) Testautomatisierung in der Builpipeline
+- [x] (2) Testautomatisierung in der Builpipeline
 
 ### 6. Querschnittsthemen:
 
@@ -105,7 +105,7 @@ Projektmanagement und Dokumentation wird zu unterschiedlichen Zeitpunkten im Pro
 - [ ] (2) MVP festlegen und einzelne Aufgaben : Welches Feature ist am wichtigsten und wird als erstes umgesetzt, was wäre nice to have
 
 Bonus:
-- [ ] (4) Kanban/Scrum Board aufsetzen
+- [x] (4) Kanban/Scrum Board aufsetzen
 
 ### 6.2 Dokumentation:
 
