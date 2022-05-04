@@ -1,0 +1,29 @@
+@startuml
+
+start
+
+partition PlayGame {
+
+repeat :start round;
+
+	:enter throws;
+
+	if (Entered wrong throw?) then (Yes)
+		:delete wrong throw;
+		:enter throw again;	
+	else (No)
+	endif
+
+	:submit round;
+
+backward :next player;
+
+repeat while (Did player win?) is (No) not (Yes)
+
+:show finale leaderboard;
+:Go to game setup page;
+}
+
+stop
+
+@enduml

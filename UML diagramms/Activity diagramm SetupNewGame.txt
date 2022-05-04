@@ -1,0 +1,30 @@
+@startuml
+
+start
+partition "**process** SetupNewGame" {
+:select game mode;
+:read game mode description;
+if (Want to keep selected game mode?) then (No)
+	:select different game mode;
+	:read game mode descritption;
+else (Yes)
+endif
+
+repeat :add player;
+	:enter player name;
+
+repeat while (Are there any more players?) is (Yes)
+->No;
+
+:start game;
+
+while (Are the player names valid?) is (No)
+	:change player names;
+	:start game;
+endwhile (Yes)
+
+}
+
+stop
+
+@enduml

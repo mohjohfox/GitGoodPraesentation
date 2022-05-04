@@ -37,13 +37,13 @@ Bonus:
 ### 2. Systementwurf
 
 - Welche Komponenten/Tools/Frameworks/Sprachen kommen warum/wo zum Einsatz?
-- Wie wird das System von einzlenen Akteuren genutzt?
+- Wie wird das System von einzelnen Akteuren genutzt?
 - Wie sehen die konkreten Workflows aus?
 - Wie ist das System aufgebaut? Architektur/Schnittstellen.
 
 - [ ] (2) Festhalten der Technologieentscheidungen => Pro Contra Vergleich zu mindestens einer anderen Sprache/Framework/Tool (Lernkurve/Erfahrung ist auch ein Faktor)
 - [ ] (4) Use-Case Diagramme für grobes Verhalten des Systems
-- [ ] (6) Aktivitätsdiagramm pro Teamperson eins oder ein ausführliches Zustandsdiagramm, falls besser für Projekt geeignet
+- [x] (6) Aktivitätsdiagramm pro Teamperson eins oder ein ausführliches Zustandsdiagramm, falls besser für Projekt geeignet
 - [ ] (3) Klassendiagramm: nur Entity Klassen
 - [ ] (2) Schnittstellen Web/Persistenz/Ui visualisieren => Komponentendiagramm
 - [ ] (3) Sequenzdiagram
