@@ -1,0 +1,23 @@
+@startuml
+
+class GameMode {
+	name  :  String
+	description  :  String
+}
+class Game {
+	gameId  :  String
+}
+class Player {
+	playerId  :  String
+	playername  : String
+	points  :  Integer
+}
+class GameHub
+
+GameHub "1" --> "n" Game
+Game "1" -> "1" Player : active Player
+Game "1" -> "n" Player : all Players
+Game "1" --> "1" GameMode
+
+
+@enduml

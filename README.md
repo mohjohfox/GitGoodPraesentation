@@ -110,10 +110,10 @@ Bonus:
 ### 6.2 Dokumentation:
 
 - Wie kann die Zielgruppe das Projekt/Programm nutzen?
-- Wie kann eine technische Schnittstelle verwedent werden?
+- Wie kann eine technische Schnittstelle verwendet werden?
 - Wie kann ein Entwickler das System bauen/testen/weiterentwickeln?
 
 - [ ] (4) Handbuch bzw. How to Anleitung oder kurzes Screen-Video
-- [ ] (3) generierte Doku z.B. SwaggerUi, JDoc, JSDoc, XML-Doc
+- [x] (3) generierte Doku z.B. SwaggerUi, JDoc, JSDoc, XML-Doc
 - [ ] (3) Readme.md für Entwickler:
     - Wie kann gebaut/getestet werden?
