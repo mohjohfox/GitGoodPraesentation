@@ -44,9 +44,9 @@ Bonus:
 - [ ] (2) Festhalten der Technologieentscheidungen => Pro Contra Vergleich zu mindestens einer anderen Sprache/Framework/Tool (Lernkurve/Erfahrung ist auch ein Faktor)
 - [ ] (4) Use-Case Diagramme für grobes Verhalten des Systems
 - [x] (6) Aktivitätsdiagramm pro Teamperson eins oder ein ausführliches Zustandsdiagramm, falls besser für Projekt geeignet
-- [ ] (3) Klassendiagramm: nur Entity Klassen
+- [x] (3) Klassendiagramm: nur Entity Klassen
 - [ ] (2) Schnittstellen Web/Persistenz/Ui visualisieren => Komponentendiagramm
-- [ ] (3) Sequenzdiagram
+- [x] (3) Sequenzdiagram
 
 Bonus:
 - [x] (4)  Mockups/Wireframes der UI

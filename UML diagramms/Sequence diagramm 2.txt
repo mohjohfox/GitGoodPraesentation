@@ -1,0 +1,17 @@
+@startuml
+
+actor Player as p
+participant GitGoodClient as client
+participant GitGoodServer as server
+participant GitGoodDatabase as db
+
+mainframe **sd** start_game
+
+p -> client: player and game mode data
+client -> server: game object without gameId
+server -> db: game data
+server -> client: game object with gameId
+client -> p: navigate to game page
+
+
+@enduml
