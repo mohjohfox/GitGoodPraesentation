@@ -1,0 +1,7 @@
+@startuml
+
+[User] --> [Web client] 
+[Web client] <--> [Backend server] 
+[Backend server] <--> [Database]
+
+@enduml

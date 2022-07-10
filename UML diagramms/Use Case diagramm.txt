@@ -1,0 +1,26 @@
+@startuml
+left to right direction
+actor Player as p
+
+package SetupGame{
+	usecase "select gamemode" as U1
+	usecase "enter playernames" as U2
+	usecase "read gamerules" as U3
+	usecase " start game" as U4
+}
+
+package PlayGame {
+	usecase "enter points" as U5
+	usecase "finish game" as U6
+	usecase "back to Setup" as U7
+}
+
+p --> U1
+p --> U2
+p --> U3
+p --> U4
+p --> U5
+p --> U6
+p --> U7
+
+@enduml
